@@ -1,0 +1,27 @@
+{
+  "color": {
+    "base": {
+      "grey": {
+        "1": { "value": "#F5F7FA" },
+        "2": { "value": "#E8EDF3" },
+        "3": { "value": "#363F44" },
+        "4": { "value": "#282F33" }
+        },
+      "blue": {
+        "1": { "value": "#688DAF"},
+        "2": { "value": "#4993E1"},
+        "3": { "value": "#3E75AF"}
+      },
+      "green": {
+        "1": { "value": "#8CC873"},
+        "2": { "value": "#6DBE50"}
+      },
+      "red": {
+        "1": { "value": "#E06969"}
+      },
+
+      "white": { "value": "#ffffff" },
+      "black": { "value": "#000000" }
+    }
+  }
+}

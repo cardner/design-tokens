@@ -1,0 +1,15 @@
+{
+  "font": {
+    "family": {
+      "base": {
+        "value": "{asset.font.base.name.value}"
+      },
+      "ss-standard": {
+        "value": "{asset.font.ss-standard.name.value}"
+      },
+      "icons": {
+        "value": "{asset.font.icon.name.value}"
+      }
+    }
+  }
+}

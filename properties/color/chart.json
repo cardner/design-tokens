@@ -1,0 +1,18 @@
+{
+  "color": {
+    "graph": {
+      "base": {
+        "1": { "value":"#407DB2" },
+        "2": { "value":"#A08CC6" },
+        "3": { "value":"#466172" },
+        "4": { "value":"#FCC46A" },
+        "5": { "value":"#8C8778" },
+        "6": { "value":"#7EB3FF" },
+        "7": { "value":"#F4935B" },
+        "8": { "value":"#778FA1" },
+        "positive": {"value": "{color.base.green.1.value}"},
+        "negative": {"value": "{color.base.red.1.value}"}
+      }
+    }
+  }
+}

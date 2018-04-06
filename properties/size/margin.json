@@ -1,0 +1,12 @@
+{
+  "size": {
+    "margin": {
+      "xsmall":   { "value": "{size.base.8.value" },
+      "small":    { "value": "{size.base.16.value}" },
+      "medium":   { "value": "{size.base.24.value}" },
+      "large":    { "value": "{size.base.32.value}" },
+      "xlarge":   { "value": "{size.base.40.value}" },
+      "xxlarge":  { "value": "{size.base.48.value}" }
+    }
+  }
+}
