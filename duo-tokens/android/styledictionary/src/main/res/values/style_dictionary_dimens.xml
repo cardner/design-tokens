@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue May 22 2018 21:47:51 GMT-0400 (EDT)
+-->
+<resources>
+  <dimen name="size_base_8">8.00dp</dimen>
+  <dimen name="size_base_10">10.00dp</dimen>
+  <dimen name="size_base_12">12.00dp</dimen>
+  <dimen name="size_base_14">14.00dp</dimen>
+  <dimen name="size_base_16">16.00dp</dimen>
+  <dimen name="size_base_20">20.00dp</dimen>
+  <dimen name="size_base_24">24.00dp</dimen>
+  <dimen name="size_base_32">32.00dp</dimen>
+  <dimen name="size_base_40">40.00dp</dimen>
+  <dimen name="size_base_48">48.00dp</dimen>
+  <dimen name="size_line_height_small"></dimen>
+  <dimen name="size_line_height_medium"></dimen>
+  <dimen name="size_line_height_large"></dimen>
+  <dimen name="size_line_height_base">24.00dp</dimen>
+  <dimen name="size_weight_base">4800.00dp</dimen>
+  <dimen name="size_weight_medium">9600.00dp</dimen>
+  <dimen name="size_weight_bold">14400.00dp</dimen>
+  <dimen name="size_icon_xsmall"></dimen>
+  <dimen name="size_icon_small">10.00dp</dimen>
+  <dimen name="size_icon_base">16.00dp</dimen>
+  <dimen name="size_icon_large">24.00dp</dimen>
+  <dimen name="size_icon_xl">32.00dp</dimen>
+  <dimen name="size_icon_xxl">40.00dp</dimen>
+  <dimen name="size_margin_xsmall"></dimen>
+  <dimen name="size_margin_small">16.00dp</dimen>
+  <dimen name="size_margin_medium">24.00dp</dimen>
+  <dimen name="size_margin_large">32.00dp</dimen>
+  <dimen name="size_margin_xlarge">40.00dp</dimen>
+  <dimen name="size_margin_xxlarge">48.00dp</dimen>
+  <dimen name="size_padding_xsmall"></dimen>
+  <dimen name="size_padding_small">16.00dp</dimen>
+  <dimen name="size_padding_medium">24.00dp</dimen>
+  <dimen name="size_padding_large">32.00dp</dimen>
+  <dimen name="size_padding_xlarge">40.00dp</dimen>
+  <dimen name="size_padding_xxlarge">48.00dp</dimen>
+  
+</resources>

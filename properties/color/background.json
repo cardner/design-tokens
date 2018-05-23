@@ -1,20 +1,19 @@
 {
   "color": {
     "background": {
-      "base":         { "value":"{color.base.white.value}",          "attributes":{"font":"base"}   },
-      "alt":          { "value":"{color.base.blue_grey.100.value}"},
+      "base":         { "value":"{color.base.white.value}"},
 
       "button": {
         "primary": {
-          "base":     { "value": "{color.brand.primary.base.value}" },
-          "disabled": { "value": "{color.brand.primary.light.value}" },
-          "active":   { "value": "{color.brand.primary.dark.value}" }
+          "base":     { "value": "{color.brand.primary.value}" },
+          "disabled": { "value": "{color.base.grey.1.value}" },
+          "active":   { "value": "{color.base.grey.2.value}" }
         },
 
         "secondary": {
-          "base":     { "value": "{color.brand.secondary.base.value}" },
-          "disabled": { "value": "{color.brand.secondary.light.value}" },
-          "active":   { "value": "{color.brand.secondary.dark.value}" }
+          "base":     { "value": "{color.base.blue.1.value}" },
+          "disabled": { "value": "{color.base.grey.1.value}" },
+          "active":   { "value": "{color.base.grey.2.value}" }
         }
       },
 

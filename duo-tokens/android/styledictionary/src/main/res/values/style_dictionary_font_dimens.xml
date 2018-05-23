@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue May 22 2018 21:47:51 GMT-0400 (EDT)
+-->
+<resources>
+  <dimen name="size_font_xxsmall"></dimen>
+  <dimen name="size_font_xsmall"></dimen>
+  <dimen name="size_font_small">NaNsp</dimen>
+  <dimen name="size_font_medium">NaNsp</dimen>
+  <dimen name="size_font_large">NaNsp</dimen>
+  <dimen name="size_font_xlarge">NaNsp</dimen>
+  <dimen name="size_font_base">NaNsp</dimen>
+  
+</resources>

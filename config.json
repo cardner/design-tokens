@@ -124,14 +124,14 @@
       "files": [
         {
           "destination": "index.html",
-          "template": "style-guide/index.html"
+          "template": "static-style-guide/index.html"
         }
       ],
       "actions": ["copy_assets"]
     },
     "staticStyleGuide-js": {
       "transformGroup": "web",
-      "buildPath": "style-guide/public/js/",
+      "buildPath": "static-style-guide/public/js/",
       "files": [{
         "name": "__style_properties",
         "destination": "style-dictionary-properties.js",
@@ -140,7 +140,7 @@
     },
     "staticStyleGuide-css": {
       "transformGroup": "scss",
-      "buildPath": "style-guide/public/css/",
+      "buildPath": "static-style-guide/public/css/",
       "files": [{
         "destination": "fonts.css",
         "template": "css/fonts.css"
