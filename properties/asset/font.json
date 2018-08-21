@@ -9,43 +9,7 @@
         "woff2": { "value": "assets/fonts/icons/duo-admin.woff2" }
       },
       "base": {
-        "name" : { "value": "NeueHaasGrotesk" },
-        "regular": {
-          "ttf"  : { "value": "assets/fonts/neuehaas/neuehaas-regular.ttf" },
-          "eot"  : { "value": "assets/fonts/neuehaas/neuehaas-regular.eot" },
-          "woff" : { "value": "assets/fonts/neuehaas/neuehaas-regular.woff" },
-          "woff2": { "value": "assets/fonts/icons/neuehaas-regular.woff2" }
-        },
-        "regular-italic": {
-          "ttf"  : { "value": "assets/fonts/neuehaas/neuehaas-regular-italic.ttf" },
-          "eot"  : { "value": "assets/fonts/neuehaas/neuehaas-regular-italic.eot" },
-          "woff" : { "value": "assets/fonts/neuehaas/neuehaas-regular-italic.woff" },
-          "woff2": { "value": "assets/fonts/icons/neuehaas-regular-italic.woff2" }
-        },
-        "medium": {
-          "ttf"  : { "value": "assets/fonts/neuehaas/neuehaas-medium.ttf" },
-          "eot"  : { "value": "assets/fonts/neuehaas/neuehaas-medium.eot" },
-          "woff" : { "value": "assets/fonts/neuehaas/neuehaas-medium.woff" },
-          "woff2": { "value": "assets/fonts/neuehaas/neuehaas-medium.woff2" }
-        },
-        "medium-italic": {
-          "ttf"  : { "value": "assets/fonts/neuehaas/neuehaas-medium-italic.ttf" },
-          "eot"  : { "value": "assets/fonts/neuehaas/neuehaas-medium-italic.eot" },
-          "woff" : { "value": "assets/fonts/neuehaas/neuehaas-medium-italic.woff" },
-          "woff2": { "value": "assets/fonts/neuehaas/neuehaas-medium-italic.woff2" }
-        },
-        "bold": {
-          "ttf"  : { "value": "assets/fonts/neuehaas/neuehaas-bold.ttf" },
-          "eot"  : { "value": "assets/fonts/neuehaas/neuehaas-bold.eot" },
-          "woff" : { "value": "assets/fonts/neuehaas/neuehaas-bold.woff" },
-          "woff2": { "value": "assets/fonts/neuehaas/neuehaas-bold.woff2" }
-        },
-        "bold-italic": {
-          "ttf"  : { "value": "assets/fonts/neuehaas/neuehaas-bold-italic.ttf" },
-          "eot"  : { "value": "assets/fonts/neuehaas/neuehaas-bold-italic.eot" },
-          "woff" : { "value": "assets/fonts/neuehaas/neuehaas-bold-italic.woff" },
-          "woff2": { "value": "assets/fonts/neuehaas/neuehaas-bold-italic.woff2" }
-        }
+        "name" : { "value": "'Helvetica Neue', Helvetica, Arial, Sans-serif" }
       },
       "ss-standard": {
         "name"  : { "value": "SSStandard" },

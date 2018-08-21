@@ -1,35 +1,19 @@
 {
-  "color": {
-    "font": {
-      "base":         { "value": "{color.base.grey.4.value}" },
-      "secondary":    { "value": "{color.base.grey.3.value}"  },
-      "tertiary":     { "value": "{color.base.grey.2.value}"  },
-      "quaternary":   { "value": "{color.base.grey.1.value}"  },
-      "link":         { "value": "{color.brand.primary.value}" },
-      "active":       { "value": "{color.brand.secondary.value}" },
-      "error":        { "value": "{color.base.red.1.value}"      },
-      "warning":      { "value": "{color.base.red.1.value}"   },
-      "success":      { "value": "{color.base.green.1.value}"    },
-      "disabled":     { "value": "{color.font.secondary.value}"    },
+    "color": {
+        "font": {
+            "base":         { "value": "{color.base.grey.1.value}" },
+            "link":         { "value": "{color.base.blue.1.value}" },
+            "error":        { "value": "{color.base.red.1.value}"      },
+            "warning":      { "value": "{color.base.red.1.value}"   },
+            "success":      { "value": "{color.base.green.1.value}"    },
+            "disabled":     { "value": "{color.base.grey.4.value}"    },
+            "inverse":      { "value": "{color.base.white.value"}
+            },
 
-
-      "inverse": {
-        "base":         { "value": "{color.base.white.value}"            },
-        "secondary":    { "value": "{color.base.grey.1.value}"         },
-        "tertiary":     { "value": "{color.base.grey.2.value}"         },
-        "quaternary":   { "value": "{color.base.grey.4.value}"         },
-        "link":         { "value": "{color.brand.primary.value}"   },
-        "active":       { "value": "{color.brand.secondary.value}" },
-        "error":        { "value": "{color.base.red.1.value}"          },
-        "warning":      { "value": "{color.base.red.1.value}"       },
-        "success":      { "value": "{color.base.green.1.value}"        },
-        "disabled":     { "value": "{color.font.inverse.secondary.value}" }
-      },
-
-      "button": {
-        "primary":   { "value":"{color.font.inverse.base.value}" },
-        "secondary": { "value":"{color.font.link.value}" }
-      }
+        "button": {
+            "primary":   { "value":"{color.font.inverse}" },
+            "secondary": { "value":"{color.font.link}" }
+        }
     }
-  }
 }
+
