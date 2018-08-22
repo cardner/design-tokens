@@ -1,18 +1,18 @@
 {
     "color": {
         "font": {
-            "base":         { "value": "{color.base.grey.1.value}" },
-            "link":         { "value": "{color.base.blue.1.value}" },
-            "error":        { "value": "{color.base.red.1.value}"      },
-            "warning":      { "value": "{color.base.red.1.value}"   },
-            "success":      { "value": "{color.base.green.1.value}"    },
-            "disabled":     { "value": "{color.base.grey.4.value}"    },
-            "inverse":      { "value": "{color.base.white.value"}
+            "base":     { "value": "{color.base.grey.1.value}"},
+            "link":     { "value": "{color.base.blue.1.value}"},
+            "error":    { "value": "{color.base.red.1.value}"},
+            "warning":  { "value": "{color.base.red.1.value}"},
+            "success":  { "value": "{color.base.green.1.value}"},
+            "disabled": { "value": "{color.base.grey.4.value}"},
+            "inverse":  { "value": "{color.base.white.value}"}
             },
 
         "button": {
-            "primary":   { "value":"{color.font.inverse}" },
-            "secondary": { "value":"{color.font.link}" }
+            "primary":   { "value":"{color.font.inverse.value}"},
+            "secondary": { "value":"{color.font.link.value}" }
         }
     }
 }

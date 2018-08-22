@@ -1,7 +1,7 @@
 {
   "size": {
     "icon": {
-      "xsmall": { "value": "{size.base.8.value" },
+      "xsmall": { "value": "{size.base.8.value}" },
       "small":  { "value":"{size.base.10.value}" },
       "base" :  { "value":"{size.base.16.value}" },
       "large":  { "value":"{size.base.24.value}" },

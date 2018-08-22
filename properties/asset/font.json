@@ -9,7 +9,7 @@
         "woff2": { "value": "assets/fonts/icons/duo-admin.woff2" }
       },
       "base": {
-        "name" : { "value": "'Helvetica Neue', Helvetica, Arial, Sans-serif" }
+        "stack" : { "value": "'Helvetica Neue', Helvetica, Arial, Sans-serif" }
       },
       "ss-standard": {
         "name"  : { "value": "SSStandard" },
