@@ -2,7 +2,7 @@
   "source": ["properties/**/*.json"],
   "platforms": {
     "css": {
-        "transformGroup": "css",
+        "transformGroup": "scss",
         "buildPath": "duo-tokens/css/",
         "files": [
           {
